@@ -1,8 +1,7 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif))]
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Devank Garg</h1>
 <h3 align="center">"Energetically passionate AI/ML virtuoso pushing the boundaries of innovation."</h3>
-
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)">
+<img  align="right" alt="Coding" width="400" src="https://res.cloudinary.com/jerrick/image/upload/c_scale,q_auto/hgjbuqpshv7xg1bypizm.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devank-garg&label=Profile%20views&color=0e75b6&style=flat" alt="devank-garg" /> </p>
 
