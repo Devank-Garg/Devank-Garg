@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devank-garg&label=Profile%20views&color=0e75b6&style=flat" alt="devank-garg" /> </p>
 
-- 🔭 I’m currently working on **PyGimblePoleMover: Autonomous Pole Detection and Navigation System**
+- 🔭 I’m currently working on **AI Agents: Autonomous Navigation Using RL Agents**
 
 - 🌱 I’m currently learning **React and Flutter**
 
