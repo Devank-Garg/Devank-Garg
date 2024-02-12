@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **AI Agents: Autonomous Navigation Using RL Agents**
 
-- 🌱 I’m currently learning **React and Flutter**
+- 🌱 I’m currently learning **RL and ROS**
 
 - 💬 Ask me about **AI/ML Models, Computer Vision**
 
